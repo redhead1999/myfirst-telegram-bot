@@ -1,5 +1,8 @@
 
 # myfirst-telegram-bot
+
+Ссылка/link - http://t.me/virus20bot
+
 //ENG 
 
 It is my first telegram bot that shows COVID-19 stats
