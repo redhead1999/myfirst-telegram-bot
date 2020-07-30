@@ -1,3 +1,4 @@
+//countries
 const COUNTRIES_LIST = `
 afghanistan, albania, algeria, andorra, angola, anguilla, antigua-and-barbuda, argentina, armenia, aruba, australia, austria, azerbaijan
 
